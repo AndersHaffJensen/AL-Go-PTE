@@ -1,4 +1,4 @@
-# AL-Go Per Tenant Extension Template
+# AL-Go Per Tenant Extension Template (local copy)
 
 This template repository can be used for managing AppSource Apps for Business Central.
 
