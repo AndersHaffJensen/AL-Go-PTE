@@ -3,15 +3,5 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "repoVersion": "2.0",
-  "useCompilerFolder": false,
-  "doNotPublishApps": false,
-  "DeployToMy-QA": {
-    "EnvironmentName": "Sandbox",
-    "continuousDeployment": true
-  },
-  "DeployToPROD": {
-    "EnvironmentName": "Sandbox",
-    "continuousDeployment": false
-  }
+  "repoVersion": "2.0"    
 }
